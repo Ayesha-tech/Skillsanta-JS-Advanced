@@ -1,2 +1,1 @@
-# Skillsanta-JS-Advanced
-# Skillsanta-JS-Advanced
+# Skillsanta-JS-Advanced Assignment
